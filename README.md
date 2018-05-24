@@ -1,4 +1,4 @@
-#CSE160-Project-Skeleton-Code
+# CSE160-Project-Skeleton-Code
 
 My very poor execution of the project for UC Merced's CSE 165 networking class.
 
